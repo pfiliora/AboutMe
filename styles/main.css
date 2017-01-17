@@ -15,7 +15,7 @@ body {
 	min-height: 800px;
 	width: 94%;
 	background-size: cover;
-	background-image:url(/assets/images/fire.jpeg);
+	background-image:url('/assets/images/fire.jpeg);
 	margin: 0 auto;
 }
 
